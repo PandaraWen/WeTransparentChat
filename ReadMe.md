@@ -1,6 +1,6 @@
 # WeTranslateparentChat
 Make WeChat's message content page's background transparent
-![82760IMG_0018.PNG](http://pandarazone.qiniudn.com/82760IMG_0018.PNG?imageView2/2/w/600)
+![82760IMG_0018.PNG](https://github.com/PandaraWen/WeTranslateparentChat/blob/master/images/IMG_0018.PNG)
 
 ## 1. How does it work
 Press the button at top right to set transparent background on/off
