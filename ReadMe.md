@@ -8,8 +8,8 @@ Press the button at top right to set transparent background on/off
 ## 2. How to install
 ### 2.1 Change some values in Makefile
 
-* <br>THEOS_DEVICE_IP: </br> You JailBreak iOS device's ip, staying in the same wifi network with your mac
-* <br>TARGET: </br> iOS SDK version you use
+* <b>THEOS_DEVICE_IP: </b> You JailBreak iOS device's ip, staying in the same wifi network with your mac
+* <b>TARGET: </b> iOS SDK version you use
 
 ### 2.2 Install
 ```
